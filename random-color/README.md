@@ -7,15 +7,14 @@ This package provides utilities for generating random colors in various formats 
 ![GitHub watchers](https://img.shields.io/github/watchers/MattEzekiel/random-color-generator)
 ![GitHub forks](https://img.shields.io/github/forks/MattEzekiel/random-color-generator)
 
-![Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FMattEzekiel%2Frandom-color-generator%2Fmaster%2Fpackage.json&query=version&label=version)
+![Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FMattEzekiel%2Frandom-color-generator%2Fmaster%2Frandom-color%2Fpackage.json&query=version&label=version)
 [![License](https://img.shields.io/badge/License-MIT-blue)](#license "Go to license section")
 
 [![Made with Node](https://img.shields.io/badge/node-%3D%3E20-20)](https://nodejs.org)
 [![Package - Yarn](https://img.shields.io/badge/yarn-%3E%3D1-blue?logo=yarn&logoColor=white)](https://classic.yarnpkg.com)
-[![Package - TypeScript](https://img.shields.io/github/package-json/dependency-version/MattEzekiel/random-color-generator/dev/typescript?logo=typescript&logoColor=white)](https://www.npmjs.com/package/typescript)
+[![Package - TypeScript](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FMattEzekiel%2Frandom-color-generator%2Fmaster%2Frandom-color%2Fpackage.json&query=devDependencies.typescript&label=TypeScript&logo=typescript&logoColor=white)](https://www.npmjs.com/package/typescript)
 
 [![NPM Package Downloads](https://img.shields.io/npm/dy/random-color-generator)](https://www.npmjs.com/package/random-color-generator)
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/MattEzekiel/random-color-generator/total?label=github%20downloads)
 
 ![GitHub Issues](https://img.shields.io/github/issues/MattEzekiel/random-color-generator)
 ![Pull Requests](https://img.shields.io/github/issues-pr/MattEzekiel/random-color-generator)
