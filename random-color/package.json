@@ -1,5 +1,5 @@
 {
-  "name": "random-color",
+  "name": "random-color-generator",
   "version": "1.0.0",
   "description": "Create a random color hex, hls, rgb and rgba",
   "main": "RandomRGB/index.ts",
