@@ -30,17 +30,17 @@ This package provides utilities for generating random colors in various formats 
 You can install the package via npm:
 ### npm
 ```bash
-npm install random-color-generator
+npm install random-color-generator-ts
 ```
 
 ### yarn
 ```bash
-yarn install random-color-generator
+yarn install random-color-generator-ts
 ```
 
 ### pnpm
 ```bash
-pnpm add random-color-generator
+pnpm add random-color-generator-ts
 ```
 
 ## Usage
