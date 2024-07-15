@@ -1,0 +1,34 @@
+{
+  "name": "random-color",
+  "version": "1.0.0",
+  "description": "Create a random color hex, hls, rgb and rgba",
+  "main": "RandomRGB/index.ts",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "tsc RandomRGB/index.ts",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MattEzekiel/random-color-generator.git"
+  },
+  "keywords": [
+    "colors",
+    "random",
+    "generate",
+    "color",
+    "hex",
+    "rgb",
+    "rgba",
+    "hls"
+  ],
+  "author": "Matías Bubello",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MattEzekiel/random-color-generator/issues"
+  },
+  "homepage": "https://github.com/MattEzekiel/random-color-generator#readme",
+  "devDependencies": {
+    "typescript": "^5.5.3"
+  }
+}

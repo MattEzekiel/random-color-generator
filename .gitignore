@@ -1,0 +1,5 @@
+.idea
+random-color/node_modules
+random-color/package-lock.json
+test/node_modules
+test/package-lock.json
