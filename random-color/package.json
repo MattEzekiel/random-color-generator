@@ -1,6 +1,6 @@
 {
   "name": "random-color-generator-ts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Create a random color hex, hls, rgb and rgba",
   "main": "RandomRGB/index.ts",
   "types": "index.d.ts",
@@ -29,6 +29,6 @@
   },
   "homepage": "https://github.com/MattEzekiel/random-color-generator#readme",
   "devDependencies": {
-    "typescript": "^5.5.3"
+    "typescript": "^5.5.4"
   }
 }
