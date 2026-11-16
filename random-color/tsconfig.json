@@ -6,14 +6,10 @@
     "forceConsistentCasingInFileNames": true,
     "strict": true,
     "skipLibCheck": true,
-    "type": "module"
+    "declaration": true,
+    "outDir": "dist"
   },
   "include": [
-    "RandomRGB/index.ts",
-    "RandomHexColor/index.ts",
-    "RandomHLS/index.ts",
-    "RandomRGB/index.ts",
-    "RandomRGBA/index.ts",
-    "RandomRGBPercentColor/index.ts"
+    "index.ts"
   ]
 }

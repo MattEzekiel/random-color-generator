@@ -14,7 +14,7 @@ This package provides utilities for generating random colors in various formats 
 [![Package - Yarn](https://img.shields.io/badge/yarn-%3E%3D1-blue?logo=yarn&logoColor=white)](https://classic.yarnpkg.com)
 [![Package - TypeScript](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FMattEzekiel%2Frandom-color-generator%2Fmaster%2Frandom-color%2Fpackage.json&query=devDependencies.typescript&label=TypeScript&logo=typescript&logoColor=white)](https://www.npmjs.com/package/typescript)
 
-[![NPM Package Downloads](https://img.shields.io/npm/dy/random-color-generator)](https://www.npmjs.com/package/random-color-generator)
+[![NPM Package Downloads](https://img.shields.io/npm/dy/random-color-generator-ts)](https://www.npmjs.com/package/random-color-generator-ts)
 
 ![GitHub Issues](https://img.shields.io/github/issues/MattEzekiel/random-color-generator)
 ![Pull Requests](https://img.shields.io/github/issues-pr/MattEzekiel/random-color-generator)
@@ -44,41 +44,41 @@ pnpm add random-color-generator-ts
 
 ## Usage
 ### Generate Random Hex Color
-Import the 'RandomHexColor' function from 'random-color-generator':
+Import the 'RandomHexColor' function from 'random-color-generator-ts':
 
 ```bash
-import { RandomHexColor } from 'random-color-generator';
+import { RandomHexColor } from 'random-color-generator-ts';
 
 console.log(RandomHexColor()); // Outputs a random color in hex format
 ```
 ### Generate Random RGB
-Import the 'RandomRgbColor' function from 'random-color-generator':
+Import the 'RandomRGBColor' function from 'random-color-generator-ts':
 
 ```bash
-import { RandomRgbColor } from 'random-color-generator';
+import { RandomRGBColor } from 'random-color-generator-ts';
 
-console.log(RandomRgbColor()); // Outputs a random color in RGB format
+console.log(RandomRGBColor()); // Outputs a random color in RGB format
 ```
 ### Generate Random RGBA Color
-Import the 'RandomRgbaColor' function from 'random-color-generator':
+Import the 'RandomRGBA' function from 'random-color-generator-ts':
 ```bash
-import { RandomRgbaColor } from 'random-color-generator';
+import { RandomRGBA } from 'random-color-generator-ts';
 
-console.log(RandomRgbaColor()); // Outputs a random color in RGBA format
+console.log(RandomRGBA()); // Outputs a random color in RGBA format
 ```
 ### Generate Random HSL Color
-Import the 'RandomHslColor' function from 'random-color-generator':
+Import the 'RandomHLS' function from 'random-color-generator-ts':
 ```bash
-import { RandomHslColor } from 'random-color-generator';
+import { RandomHLS } from 'random-color-generator-ts';
 
-console.log(RandomHslColor()); // Outputs a random color in HSL format
+console.log(RandomHLS()); // Outputs a random color in HSL format
 ```
 ### Generate Random RGB Percent Color
-Import the 'RandomRgbPercentColor' function from 'random-color-generator':
+Import the 'RandomRGBPercentColor' function from 'random-color-generator-ts':
 ```bash
-import { getRandomRgbPercentColor } from 'random-color-generator';
+import { RandomRGBPercentColor } from 'random-color-generator-ts';
 
-console.log(getRandomRgbPercentColor()); // Outputs a random color in RGB percent format
+console.log(RandomRGBPercentColor()); // Outputs a random color in RGB percent format
 ```
 
 ## Contributing and Issue Tracking
@@ -89,4 +89,4 @@ Respect our [CODE OF CONDUCT](https://github.com/MattEzekiel/random-color-genera
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/MattEzekiel/random-color-generator/blob/master/LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/MattEzekiel/random-color-generator/blob/master/LICENCE.md) file for details.
